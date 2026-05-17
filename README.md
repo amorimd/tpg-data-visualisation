@@ -19,3 +19,7 @@ Elle propose deux visualisations de données: la fréquentation quotidienne des 
 ### Localement
 
 Cloner le dépôt et installer les dépendances (voir `requirements.txt`). L'application se lance en executant `python data_visualisation_app.py` dans le dossier `dash_app`. L'application sera accessible à l'adresse `http://localhost:8050`.
+
+### Online
+
+L'application est également déployée en ligne sur Render, accessible à l'adresse [https://tpg-data-visualisation.onrender.com](https://tpg-data-visualisation.onrender.com) ainsi que sur [Plotly Cloud](https://cloud.plotly.com/app/7928cbbd-04dc-47d2-807a-57ca8b54a35d/settings?tab=general).
